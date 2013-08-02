@@ -1,0 +1,8 @@
+---
+layout: post
+title: "title"
+date: 2013-08-01 21:54
+comments: true
+categories: 
+---
+#大家好这是我的第一篇博客
